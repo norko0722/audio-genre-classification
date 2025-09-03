@@ -31,7 +31,7 @@ Before running the project, make sure you have the following installed:
    venv\Scripts\activate      # Windows
 
 3. Install dependencies
-4. 
+   
    pip install -r requirements.txt
 
 ## Help
