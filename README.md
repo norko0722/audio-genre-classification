@@ -39,6 +39,6 @@ Before running the project, make sure you have the following installed:
 If you encounter errors related to missing dependencies, try:
 pip install -r requirements.txt --upgrade
 
-##Authors
+## Authors
 
 * Norbert Balucha - @norko0722
