@@ -20,13 +20,18 @@ Before running the project, make sure you have the following installed:
 ### Installing
 
 1. Clone this repository:
+   
    git clone git@github-norko0722:norko0722/audio-genre-classification.git
    cd audio-genre-classification
+   
 2. Create and activate a virtual environment:
+   
    python3 -m venv venv
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
+
 3. Install dependencies
+4. 
    pip install -r requirements.txt
 
 ## Help
